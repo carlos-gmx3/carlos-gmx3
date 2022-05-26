@@ -3,6 +3,33 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Tech+support;Microcontroller's+geek;Engineer+in+progress;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
+
+```js
+let KaiDev = {  
+    studyingAt: "UnADM",
+    career: "Software Development",
+    currentDegree: "Technician on digital systems"
+    courses: {
+        JetBrainsAcademy: "Frontend Developer",
+        Microsoft_LaunchX: ["HTML", "CSS", "JS", "Vue", "GitHub", "Java", "Docker"],
+        UnADM: ["BPMN", "Database Modeling" "Java", "MySQL", "OOP", "UML"]
+        Udemy: "Learn HTML, CSS & JS"
+    },
+    learning: {
+        Domestika: ["Photoshop for web design", "SVG Animations with CSS"],
+        FreeCodeCamp: "Responsive Web Design"
+        JetBrainsAcademy: "React",
+        Udemy: ["React", "Spring"]        
+    },
+    challenges :{
+        Hackathon: "Team leader at: Hack the Ocean",
+        JS30: "loading 5/30",
+        APIConsumption: "Pokedex"
+    }
+    music: ["Metal", "Rock", "Pop", "electronic"]
+}
+```
 <h2>Skills</h2>
  <table>
   <tr>
