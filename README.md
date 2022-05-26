@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 
 
+
+
+[![Linkedin: Carlos García](https://img.shields.io/badge/-CarlosGarcía-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gmx3/)](https://www.linkedin.com/in/carlos-gmx3/)
 <!--
 **carlos-gmx3/carlos-gmx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
