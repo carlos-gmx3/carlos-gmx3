@@ -1,5 +1,5 @@
 
-<h1><img src="./hi-husky.gif" width="180px"> Hey, I'm Carlos García</h1>
+<h1><img src="./hi-husky.gif" width="200px"> I'm Carlos García</h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Tech+support;Microcontroller's+geek;Engineer+in+progress;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -78,4 +78,4 @@ let KaiDev = {
 <hr>
 
 
-<h3><img src="./momantai.gif" width="200px"> Don't worry, everythin is gonna be fine, just take it ez</h3>
+<h3><img src="./momantai.gif" width="220px"> Don't worry, everythin is gonna be fine, just take it ez</h3>
