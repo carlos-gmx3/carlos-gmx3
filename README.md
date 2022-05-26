@@ -27,6 +27,7 @@ let KaiDev = {
         JS30: "loading 5/30",
         APIConsumption: "Pokedex"
     }
+    hobbies: ["inline skates", "yoyo", "circuit making", "microcontrollers", "plants"],
     music: ["Metal", "Rock", "Pop", "electronic"]
 }
 ```
@@ -77,4 +78,4 @@ let KaiDev = {
 <hr>
 
 
-<h3><img src="./momantai.gif" width="180px"> Moumantai: Don't worry, everythin is gonna be fine, just take it ez</h3>
+<h3><img src="./momantai.gif" width="200px"> Don't worry, everythin is gonna be fine, just take it ez</h3>
