@@ -78,4 +78,4 @@ let KaiDev = {
 <hr>
 
 
-<h3><img src="./momantai.gif" width="220px"> Don't worry, everythin is gonna be fine, just take it ez</h3>
+<h3><img src="./momantai.gif" width="220px"> Don't worry, everything is gonna be fine, just take it ez</h3>
