@@ -68,9 +68,13 @@ let KaiDev = {
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-
 [![Linkedin: Carlos García](https://img.shields.io/badge/-Carlos%20Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gmx3/)](https://www.linkedin.com/in/carlos-gmx3/)
 
 <a target="_blank" href="mailto:carlos.gmx3@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
+
+<hr>
+
+
+<h3><img src="./momantai.gif" width="180px"> Moumantai: Don't worry, everythin is gonna be fine, just take it ez</h3>
