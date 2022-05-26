@@ -9,16 +9,16 @@
 let KaiDev = {  
     studyingAt: "UnADM",
     career: "Software Development",
-    currentDegree: "Technician on digital systems"
+    currentDegree: "Technician on digital systems",
     courses: {
         JetBrainsAcademy: "Frontend Developer",
         Microsoft_LaunchX: ["HTML", "CSS", "JS", "Vue", "GitHub", "Java", "Docker"],
-        UnADM: ["BPMN", "Database Modeling" "Java", "MySQL", "OOP", "UML"]
+        UnADM: ["BPMN", "Database Modeling" "Java", "MySQL", "OOP", "UML"],
         Udemy: "Learn HTML, CSS & JS"
     },
     learning: {
         Domestika: ["Photoshop for web design", "SVG Animations with CSS"],
-        FreeCodeCamp: "Responsive Web Design"
+        FreeCodeCamp: "Responsive Web Design",
         JetBrainsAcademy: "React",
         Udemy: ["React", "Spring"]        
     },
