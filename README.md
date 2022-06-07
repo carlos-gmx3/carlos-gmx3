@@ -35,7 +35,7 @@ let KaiDev = {
  <table>
   <tr>
     <th colspan="7">
-      <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+      <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=40px>
     </th>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ let KaiDev = {
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px"> </h2>
 
 [![Linkedin: Carlos García](https://img.shields.io/badge/-Carlos%20Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-gmx3/)](https://www.linkedin.com/in/carlos-gmx3/)
 
@@ -78,4 +78,4 @@ let KaiDev = {
 <hr>
 
 
-<h3><img src="./momantai.gif" width="220px"> Don't worry, everything is gonna be fine, just take it ez</h3>
+<h3><img src="./momantai.gif" height="220px"> Don't worry, everything is gonna be fine, just take it ez</h3>
