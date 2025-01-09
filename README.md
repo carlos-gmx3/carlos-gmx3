@@ -12,6 +12,7 @@ let KaiDev = {
     studyingAt: "UnADM",
     career: "Software Development",
     currentDegree: "Technician on digital systems",
+    degreeInProgress: "Software development engineer",
     skills: {
         JetBrainsAcademy: "Frontend Developer",
         Microsoft_LaunchX: ["HTML", "CSS", "JS", "Vue", "GitHub", "Java", "Docker"],
