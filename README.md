@@ -10,9 +10,9 @@
 ```js
 let KaiDev = {  
     studyingAt: "UnADM",
-    career: "Software Development",
-    currentDegree: "Technician on digital systems",
-    degreeInProgress: "Software development engineer",
+    careerInProgress: "Engineering in Software Development",
+    currentDegree: "Digital Systems Technician",
+    autodidact: 1,
     skills: {
         JetBrainsAcademy: "Frontend Developer",
         Microsoft_LaunchX: ["HTML", "CSS", "JS", "Vue", "GitHub", "Java", "Docker"],
