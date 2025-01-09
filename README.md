@@ -13,12 +13,15 @@ let KaiDev = {
     careerInProgress: "Engineering in Software Development",
     currentDegree: "Digital Systems Technician",
     autodidact: 1,
-    skills: {
+    careerSkills: {
+        ProductOwner: ["Figma", "Agile", "Scrum", "User stories", "HTML", "CSS", "JS", "Architechtural Design"],
+        TechSupport: ["Networking", "PC", "OS", "Microcontrollers"]
+    },
+    courses: {
         JetBrainsAcademy: "Frontend Developer",
         Microsoft_LaunchX: ["HTML", "CSS", "JS", "Vue", "GitHub", "Java", "Docker"],
         UnADM: ["UML", "BPMN", "Database Modeling" "MySQL", "Java", ".Net", "Software Architecture"],
-        Udemy: ["HTML", "CSS", "JS"],
-        ProfessionalCareer: ["Figma", "Agile", "Scrum", "User stories"]
+        Udemy: ["HTML", "CSS", "JS"]
     },
     learning: {
         Domestika: ["Photoshop for web design", "SVG Animations with CSS"],
