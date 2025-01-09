@@ -17,7 +17,7 @@ let KaiDev = {
         Microsoft_LaunchX: ["HTML", "CSS", "JS", "Vue", "GitHub", "Java", "Docker"],
         UnADM: ["UML", "BPMN", "Database Modeling" "MySQL", "Java", ".Net", "Software Architecture"],
         Udemy: ["HTML", "CSS", "JS"],
-        Professional Career: ["Figma", "Agile", "Scrum", "User stories"]
+        ProfessionalCareer: ["Figma", "Agile", "Scrum", "User stories"]
     },
     learning: {
         Domestika: ["Photoshop for web design", "SVG Animations with CSS"],
