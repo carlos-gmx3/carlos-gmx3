@@ -33,7 +33,7 @@ let KaiDev = {
         Hackathon: "Team leader at: Hack the Ocean",
         JS30: "loading 10/30",
         APIConsumption: "Pokedex"
-    }
+    },
     hobbies: ["inline skates", "yoyo", "circuit making", "microcontrollers", "plants"],
     music: ["Metal", "Rock", "Pop", "electronic"]
 }
